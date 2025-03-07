@@ -1,0 +1,2 @@
+D:/02DartPj/Fapi/apitest/android/app/.cxx/Debug/2c474i2n/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/02DartPj/Fapi/apitest/android/app/.cxx/Debug/2c474i2n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
